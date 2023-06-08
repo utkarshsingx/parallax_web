@@ -4,4 +4,4 @@ This is a parallax website showcasing various sections with stunning visual effe
   
 # Screenshots
 
-![Screenshot 1](assets/bg1.png)
+![Screenshot 1](assets/pic1.png)
