@@ -4,4 +4,5 @@ This is a parallax website showcasing various sections with stunning visual effe
 
 # Video 🎥
 
-https://github.com/utkarshsingx/parallax_web/blob/master/assets/recorded_video.mp4
+https://github.com/utkarshsingx/parallax_web/assets/92610758/7990e640-4ff6-4ead-9133-0ffb21648b76
+
